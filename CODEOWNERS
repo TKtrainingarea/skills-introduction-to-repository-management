@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @TKtrainingarea
+/src/backend/database.py      @TKtrainingarea
+/src/backend/routers/auth.py  @TKtrainingarea
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @TKtrainingarea
